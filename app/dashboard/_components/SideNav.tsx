@@ -12,26 +12,21 @@ function SideNav() {
       path:'/dashboard'
     },
     {
-      name:'Hstory',
+      name:'History',
       icon: FileClock,
       path:'/dashboard/history'
     },
     {
-      name:'Billing',
-      icon: WalletCards,
-      path:'/dashboard/billing'
-    },
-    {
       name:'Setting',
       icon: Settings,
-      path:'/dashboard/setting'
+      path:'/dashboard/settings'
     },
 
   ]
   const path=usePathname();
   useEffect(()=>{
-    
-  })
+      console.log(path)
+  },[])
 
   return (
 
