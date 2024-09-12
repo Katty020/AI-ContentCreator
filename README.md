@@ -1,10 +1,12 @@
 ##Tech Stack Used:-
-1- NextJs
-2- PostgreSQL
-2-Typscript
-3-Drizzle ORM
-4-Clerk
-5- And many more libraries (see in package.json)
+<br>
+
+1- NextJs<br>
+2- PostgreSQL<br>
+2-Typscript<br>
+3-Drizzle ORM<br>
+4-Clerk<br>
+5- And many more libraries (see in package.json)<br>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
