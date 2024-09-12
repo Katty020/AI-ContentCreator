@@ -1,4 +1,4 @@
-##Tech Stack Used:-
+<H1>Tech Stack Used:-
 <br>
 
 1- NextJs<br>
